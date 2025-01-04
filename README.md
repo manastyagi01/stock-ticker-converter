@@ -44,8 +44,8 @@ python main.py
 3. Check `output.csv` for the results:
 ```csv
 Stock Name,Ticker
-HDFC Bank Limited,HDFCBANK.NS
-Reliance Industries Limited,RELIANCE.NS
+HDFC Bank Limited,HDFCBANK
+Reliance Industries Limited,RELIANCE
 ```
 
 ## Dependencies
